@@ -17,20 +17,20 @@ Bu C programı, çeşitli fizik deneyleri için hesaplamalar yapar. Program, ser
 
 1. Depoyu klonlayın:
     ```sh
-    git clone https://github.com/abdullah-aksoy/Physics-Experiments-Calculation-Program
-    cd Physics-Experiments-Calculation-Program
+    git clone https://github.com/abdullah-aksoy/fizik-deneyleri
+    cd fizik-deneyleri
     ```
 
 2. Programı derleyin:
     ```sh
-    gcc -o Physics-Experiments-Calculation-Program Physics-Experiments-Calculation-Program.c -lm
+    gcc -o fizik-deneyleri fizik-deneyleri.c -lm
     ```
 
 ## Kullanım
 
 1. Derlenmiş programı çalıştırın:
     ```sh
-    ./Physics-Experiments-Calculation-Program
+    ./fizik-deneyleri
     ```
 
 2. Menüden bir deney seçin ve istenen değerleri girin.

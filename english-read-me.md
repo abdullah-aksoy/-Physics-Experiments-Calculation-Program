@@ -17,13 +17,13 @@ This C program performs calculations for various physics experiments. The progra
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/abdullah-aksoy/Physics-Experiments-Calculation-Program
-    cd physics-experiments
+    git clone https://github.com/abdullah-aksoy/fizik-deneyleri
+    cd fizik-deneyleri
     ```
 
 2. Compile the program:
     ```sh
-    gcc -o Physics-Experiments-Calculation-Program Physics-Experiments-Calculation-Program.c -lm
+    gcc -o fizik-deneyleri fizik-deneyleri.c -lm
     ```
 
 ## Usage
